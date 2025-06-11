@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Desmatamento do Solo - Impactos e Consequências">
+  <title>Desmatamento do Solo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Desmatamento do Solo: Impactos e Consequências</h1>
+  </header>
+
+  <section class="intro">
+    <h2>O que é o Desmatamento?</h2>
+    <p>O desmatamento é o processo de remoção da vegetação nativa de uma área, geralmente para dar espaço à agricultura, pecuária, ou urbanização. Esse fenômeno é uma das principais causas de degradação do solo e de impactos ambientais em larga escala.</p>
+  </section>
+
+  <section class="impactos">
+    <h2>Impactos Ambientais do Desmatamento</h2>
+    <ul>
+      <li><strong>Perda da Biodiversidade:</strong> O desmatamento destrói habitats naturais, levando à extinção de diversas espécies.</li>
+      <li><strong>Erosão do Solo:</strong> A remoção das árvores expõe o solo, facilitando a erosão causada pela chuva e vento.</li>
+      <li><strong>Alterações Climáticas:</strong> O desmatamento contribui para o aumento do CO₂ na atmosfera, agravando as mudanças climáticas.</li>
+    </ul>
+  </section>
+
+  <section class="solucoes">
+    <h2>Possíveis Soluções</h2>
+    <p>Algumas ações que podem ajudar a mitigar o desmatamento incluem:</p>
+    <ol>
+      <li>Reflorestamento e plantio de árvores nativas.</li>
+      <li>Desenvolvimento de práticas agrícolas sustentáveis.</li>
+      <li>Educação ambiental e políticas públicas mais rigorosas.</li>
+    </ol>
+  </section>
+
+  <footer>
+    <p>Desmatamento do Solo - Projeto desenvolvido por [Seu Nome]</p>
+  </footer>
+</body>
+</html>
